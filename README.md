@@ -1,10 +1,29 @@
-![OnStar for Bikes](/resources/logo.png "OnStar for Bikes")
+![OnStar for Bikes](../resources/logo.png "OnStar for Bikes")
 
-My 2013/2014 undergraduate thesis for Computer Science at Ryerson University
+Web Application Component
+=========================
 
-### [Thesis Proposal](http://www.justinbull.ca/thesis/proposal.pdf) ###
+Copyright & License
+-------------------
 
-### Copyright & License ###
+The MIT License (MIT)
 
-- The source code for the web app and Arduino sketches fall under the MIT licence.
-- The thesis documents, and all related academic works, are licensed under the Creative Commons [Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license. The attribution name should be Justin A. S. Bull linked to `http://www.justinbull.ca`
+Copyright (c) 2013 Justin A. S. Bull
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
