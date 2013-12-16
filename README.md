@@ -1,4 +1,4 @@
-![OnStar for Bikes](app/assets/images/logo.png "OnStar for Bikes")
+![OnStar for Bikes](app/assets/images/logo-withtext.png "OnStar for Bikes")
 
 Main thesis repository is at [f3ndot/undergraduate-thesis](https://github.com/f3ndot/undergraduate-thesis-webapp).
 
