@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+ruby "2.0.0"
 
 # Twilio and micro API for device communication
 gem 'grape'
@@ -17,8 +18,12 @@ gem 'simple_form'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.2'
 
-# Use sqlite3 as the database for Active Record
+# Use sqlite3 as the database for Active Record, postgress for prod/Heroku
 gem 'sqlite3'
+gem 'pg', :group => :production
+
+# Get asset stuff back for Heroku
+gem 'rails_12factor', :group => :production
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
@@ -51,7 +56,7 @@ end
 
 # Use unicorn as the app server
 # gem "unicorn-rails"
-gem 'unicorn'
+# gem 'unicorn'
 gem 'thin'
 
 # Use Capistrano for deployment
